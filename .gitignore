@@ -2,7 +2,7 @@
 # Ignore compiled Java class files
 *.class
 
-# Ignore IDE files
+# Ignore IDE files 
 .vscode/
 .idea/
 
